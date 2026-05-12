@@ -3,6 +3,8 @@
 venv/
 env/
 ENV/
+.vscode
+.pytest_cache
 
 # ── Secrets — NEVER commit these ───────────────────────────────
 .env
